@@ -1,2 +1,3 @@
-# Random-password-generator
-I dette repoet finner du startkode til en random password generator.
+#password
+
+one generates an 8 character password one hashes the password 
